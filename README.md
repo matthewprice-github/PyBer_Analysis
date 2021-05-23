@@ -11,7 +11,7 @@ Urban cities predictably have the highest voume of rides, drivers, and fares. Th
 Looking at [total fares by city type](https://github.com/matthewprice-github/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png), we can see that each city type's weekly fare total falls within a certain range. Rural city types have weekly revenue in the $0-500 range, while suburban and urban city types fall in the $750-1250 and $1750-2250 ranges, respectively. 
 
 ## Summary 
-Looking at the disparities in city types, there are a few recommendations we can make. The first would be to address the oversupply of drivers in the urban cities. At it's current state, there were more drivers in urban cities than rides given during this time period. That means some drivers did not give a single ride during this time. Perhaps offer a bonus or financial incentive for drivers to move out to the suburban and rural areas to pick up fares. 
+GIven the disparities in the data between city types, there are a few reccomendations we could make. The first would be to address the oversupply of drivers in the urban cities. At it's current state, there were more drivers in urban cities than rides given during this time period. That means some drivers did not give a single ride during this time. Perhaps offer a bonus or financial incentive for drivers to move out to the suburban and rural areas to pick up fares. 
 
 Looking at weekly data in total fare by city type, we can see an interesting thing happened the week of 2-24 where total fares increased across all city types. IT would be interesting to know what happened during that week across the business to know if anthing was done differently that could have created a positive impact.
 
