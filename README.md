@@ -4,7 +4,7 @@
 The purpose of this assignment was to gather several months worth of rideshare data across several city types, synthesize the data, and visualize the results to help contextualize the data. These visuals and data summaries will better inform Pyber's decisionmaking process as the company progresses into the year. 
 
 ## Results 
-The Pyber Summary data table can be found [here](https://github.com/matthewprice-github/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png). 
+The Pyber Summary data table can be found [here](https://github.com/matthewprice-github/PyBer_Analysis/blob/main/analysis/Pyber_summary.PNG). 
 
 Urban cities predictably have the highest voume of rides, drivers, and fares. This makes sense given urban cities have higher population densities, and residents are less likely to have cars of their own compared to rural and suburban city types. However, rural towns have the highest average fare per ride and average fare per driver. This means that while demand is low in rural areas, supply of drivers is even lower, which causes prices to increase. The opposite effect is happening for the urban cities, where total drivers is actually outnumbering total rides, which makes ridesharing prices lower. 
 
